@@ -1,8 +1,8 @@
 #SetUP
-Java - 1.8
+Java - 1.8,
 chromedriver - for Mac
 
-#Folder - "Jars" contains (3 .jar) and chromedriver
+#Folder - "Jars" contains (3 .jar) and chromedriver.
 Please add these jar file to libraries to run project
 
 Question 1:
@@ -23,8 +23,8 @@ TestNG file :
 
 How to run:
 
-Question 1 and Question 3: run as java application
+Question 1 and Question 3: run as java application.
 Question 2 :
-Way 1 : run testng.xml as TestNG Suite
+Way 1 : run testng.xml as TestNG Suite,
 Way 2 : run TC_Verify_Flow_of_WW.java as TestNG Test
 
