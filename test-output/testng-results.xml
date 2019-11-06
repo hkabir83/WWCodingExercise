@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Click on Find A Studio]]>
+    </line>
+    <line>
+      <![CDATA[Entered Search Text as 10011]]>
+    </line>
+    <line>
+      <![CDATA[Click on Search button]]>
+    </line>
+    <line>
+      <![CDATA[Got Location name]]>
+    </line>
+    <line>
+      <![CDATA[Got Location Distance]]>
+    </line>
+    <line>
+      <![CDATA[Got Location name]]>
+    </line>
+    <line>
+      <![CDATA[Click on Location Name]]>
+    </line>
+    <line>
+      <![CDATA[Got Location name]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67054" started-at="2019-11-06T07:19:18Z" finished-at="2019-11-06T07:20:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67054" started-at="2019-11-06T07:19:18Z" finished-at="2019-11-06T07:20:25Z">
+      <class name="question2.tests.TC_Verify_Flow_of_WW">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:question2.tests.TC_Verify_Flow_of_WW@7c16905e]" name="setUp" is-config="true" duration-ms="16925" started-at="2019-11-06T07:19:01Z" finished-at="2019-11-06T07:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTest()[pri:0, instance:question2.tests.TC_Verify_Flow_of_WW@7c16905e]" name="verifyTest" duration-ms="67035" started-at="2019-11-06T07:19:18Z" finished-at="2019-11-06T07:20:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Find A Studio]]>
+            </line>
+            <line>
+              <![CDATA[Entered Search Text as 10011]]>
+            </line>
+            <line>
+              <![CDATA[Click on Search button]]>
+            </line>
+            <line>
+              <![CDATA[Got Location name]]>
+            </line>
+            <line>
+              <![CDATA[Got Location Distance]]>
+            </line>
+            <line>
+              <![CDATA[Got Location name]]>
+            </line>
+            <line>
+              <![CDATA[Click on Location Name]]>
+            </line>
+            <line>
+              <![CDATA[Got Location name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:question2.tests.TC_Verify_Flow_of_WW@7c16905e]" name="tearDown" is-config="true" duration-ms="180" started-at="2019-11-06T07:20:26Z" finished-at="2019-11-06T07:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- question2.tests.TC_Verify_Flow_of_WW -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
